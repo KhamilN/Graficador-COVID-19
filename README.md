@@ -1,1 +1,1 @@
-"# GraficadorCOVID19" 
+Aplicación de consola para gráficar los casos de infección y fallecimiento por COVID-19 en el mundo a partir de los datos de la OMS. Realizado como finalización del curso Introductorio de Python de IEEE-ITBA con las librerias NumPy, Pandas y MatPlotLib.
